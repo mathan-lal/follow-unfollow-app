@@ -1,0 +1,17 @@
+.user-form{
+    border: 1px solid #89ABE3;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 50px;
+}
+.user-form p{
+    text-align: center;
+
+}
+
+.user-form p span{
+    font-size: 1rem;
+    margin: 20px 0px;
+    color: green;
+    font-weight: 500;
+}

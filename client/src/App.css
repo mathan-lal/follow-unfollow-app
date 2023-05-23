@@ -1,0 +1,92 @@
+.main-header{
+  background-color: #89ABE3;
+}
+.navbar-light .navbar-nav .nav-link{
+  color: #010538;
+  font-weight: 400;
+}
+
+.navbar-brand{
+  font-weight: 600;
+}
+.main-body{
+  background-color: #EA738D;
+  /* width: 100vh; */
+  min-height: 100vh;
+  color: #e2e2e2;
+  /* height: auto; */
+}
+
+.main-body table{
+  color: #e2e2e2;
+
+}
+
+.primary-btn{
+  padding: 5px 20px;
+  border-radius: 3px;
+  border: none;
+  color:#010538;
+  background-color: #89ABE3;
+  transition: .2s ease-in-out;
+}
+
+.primary-btn:hover{
+background-color: #e2e2e2;
+/* color: #010538; */
+}
+
+.btn-search{
+  padding: 5px 20px;
+  border-radius: 0px 2px 2px 0px;
+  border: none;
+  color:#010538;
+  background-color: #89ABE3;
+  transition: .2s ease-in-out;
+}
+input{
+  padding: 5px 20px;
+  border-radius: 2px 0px 0px 2px;
+  border: none;
+}
+
+.current-user{
+  background-color: #010538;
+  border-radius: 3px;
+}
+.current-user a{
+  color: #e2e2e2!important;
+}
+
+.login-signup-btn{
+  padding: 5px 20px;
+  border-radius: 3px;
+  border: none;
+  color:#010538;
+  background-color: #89ABE3;
+  transition: .2s ease-in-out;
+}
+
+.login-signup-btn:hover,.btn-check:focus+.btn-primary, .btn-primary:focus{
+  background-color: #e2e2e2;
+  color:#010538;
+  box-shadow: 0 0 0 0.20rem rgba(255, 222, 37, 0.966);
+}
+
+p a{
+color: rgb(255, 201, 52);
+text-decoration: none;
+}
+p a:hover{
+  color: rgba(255, 201, 52, 0.829);
+  }
+  
+.success-msg{
+  color: rgb(255, 201, 52)!important;
+
+}
+
+.primary-btn{
+  width: 150px;
+  padding: 5px 5px!important;
+}
